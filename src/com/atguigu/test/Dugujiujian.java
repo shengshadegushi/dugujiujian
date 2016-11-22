@@ -6,6 +6,7 @@ public class Dugujiujian {
 		System.out.println("hello! dugujiujian");
 		System.out.println("conflict 01");
 		System.out.println("conflict 01.1");
+		System.out.println("conflict 02");
 	}
 	
 }
