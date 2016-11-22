@@ -12,7 +12,7 @@ public class Dugujiujian {
 		System.out.println("测试冲突 conflict3");
 		System.out.println("测试prepare with ");
 		System.out.println("测试 为了pull... 缺少一个界面而又分支不错乱的pull下来，"
-				+ "而修改此仓库的config配置文件");
+				+ "而修改此仓库的config配置文件 123");
 	}
 	
 }
