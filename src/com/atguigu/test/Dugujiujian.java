@@ -7,6 +7,9 @@ public class Dugujiujian {
 		System.out.println("conflict 01");
 		System.out.println("conflict 01.1");
 		System.out.println("conflict 02");
+		System.out.println("conflict1");
+		System.out.println("conflict2");
+		System.out.println("conflict3");
 	}
 	
 }
